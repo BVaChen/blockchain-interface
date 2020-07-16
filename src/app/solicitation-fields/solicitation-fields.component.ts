@@ -8,7 +8,6 @@ import { stringify } from '@angular/compiler/src/util';
 })
 export class SolicitationFieldsComponent implements OnInit {
 
-  
   partNum: string;
   partDesc: string;
   locationCode: string; 
