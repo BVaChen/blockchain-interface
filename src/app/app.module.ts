@@ -17,7 +17,7 @@ import { IonicModule } from '@ionic/angular';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule
+    FormsModule,
     IonicModule.forRoot()
   ],
   providers: [],
